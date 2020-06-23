@@ -13,3 +13,5 @@ runs/
 htmlcov
 
 docs_env
+
+.gradle
